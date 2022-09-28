@@ -1,0 +1,2 @@
+def tamagochi()
+print("macaco")
