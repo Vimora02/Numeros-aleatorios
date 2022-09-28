@@ -1,2 +1,2 @@
 # Numeros-aleatorios
-Tentando relembrar como funciona aleatoriedade em python
+Não programo em python então eu estava tentando relembrar como funciona aleatoriedade em python.
